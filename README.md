@@ -1,10 +1,6 @@
-# presentacion-
+# Sobre mi
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Hola!
 
-Ya saben usar git!
+Mi nombre es Facundo, tengo 22 años, me gusta leer 📖 y programar 💻.
+Vivo en Campana y trabajo actualmente en Siderca en el sector de automación desarrollando software para equipos de Control No Destructivo.
